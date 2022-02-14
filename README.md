@@ -6,7 +6,11 @@
 
 - 📫 How to reach me **nutrock123123@gmail.com**
 
+- ![image](https://user-images.githubusercontent.com/78488006/153796687-aae9860c-3371-45df-a9f6-6d1a0a7f0f5c.png)
+
+
 - ⚡ Fun fact **IU is so gorgeous**
+
 
 ![image](https://user-images.githubusercontent.com/78488006/153793905-ad6515b4-6669-4e7e-b5a4-be25022c3b09.png)
 
