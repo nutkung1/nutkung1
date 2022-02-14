@@ -10,6 +10,8 @@
 
 - 🎓 King Mongkut’s University of Technology Thonburi(KMUTT)
 
+- 👷‍♂️ Computer Engineering(International)
+
 - ⚡ Fun fact **IU is so gorgeous, Isn't she?**
 
 
