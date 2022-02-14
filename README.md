@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nutrock123123@gmail.com**
 
-- 🏫 I'm studying at Bangkok Christian College(BCC)
+- 🏫 I'm studying at **Bangkok Christian College(BCC)**
 
 - 🎓 King Mongkut’s University of Technology Thonburi(KMUTT)
 
