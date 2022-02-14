@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
 <h1 align="center">Hi 👋, I'm Suchanat Ratanarueangrong</h1>
 <h3 align="center">A passionate Learner</h3>
 
