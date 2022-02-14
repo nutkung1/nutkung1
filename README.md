@@ -10,13 +10,13 @@
 
 - 🎓 King Mongkut’s University of Technology Thonburi(KMUTT)
 
-- ⚡ Fun fact **IU is so gorgeous, isn't she?**
+- ⚡ Fun fact **IU is so gorgeous, Isn't she?**
 
 
 ![image](https://user-images.githubusercontent.com/78488006/153793905-ad6515b4-6669-4e7e-b5a4-be25022c3b09.png)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.instagram.com/nut_36974/" target="blank" rel="noreferre"> <img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1644812717~hmac=b4be484eac9bf626f09e9ffaf7984a69" alt="instragram" width="40" height="40"/></a>
+<p align="left"> <a href="https://www.instagram.com/nut_36974/" target="blank" rel="noreferre"> <img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1644812717~hmac=b4be484eac9bf626f09e9ffaf7984a69" alt="instragram" width="40" height="40"/></a> <a href="https://www.facebook.com/profile.php?id=100022989000044" target="blank" rel="noreferre"> <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="facebook" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
