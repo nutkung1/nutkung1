@@ -12,6 +12,8 @@
 
 - 👷‍♂️ Computer Engineering(International)
 
+- ✨ My hobbies **Play games, Listen to music**
+
 - ⚡ Fun fact **IU is so gorgeous, Isn't she?**
 
 
