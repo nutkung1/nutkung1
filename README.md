@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suchanat Ratanarueangrong</h1>
 <h3 align="center">A passionate Learner</h3>
-```![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 - 🌱 I’m currently learning **Data science**
 
