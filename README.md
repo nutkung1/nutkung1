@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suchanat Ratanarueangrong</h1>
 <h3 align="center">A passionate Learner</h3>
-```
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
-```
+```![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)```
 
 - 🌱 I’m currently learning **Data science**
 
