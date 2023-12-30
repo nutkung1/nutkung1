@@ -10,9 +10,9 @@
 
 - 🎓 King Mongkut’s University of Technology Thonburi(KMUTT)
 
-- 👷‍♂️ Computer Engineering(International), Interested in Data Engineer field
+- 👷‍♂️ Computer Engineering (International), Interested in Data Engineer Field
 
-- ✨ My hobbies **Play games, Listen to music**
+- ✨ My hobbies **Learn new things and knowledge**
 
 
 <h3 align="left">Connect with me: (click the icon)</h3>
