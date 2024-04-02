@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Learner</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
-- 🌱 I’m currently learning **Data Engineer Career**
+- 🌱 I’m currently learning **Data Engineer/Back-End Developer**
 
-- 📫 How to reach me **nutrock123123@gmail.com**
+- 📫 How to reach me **suchanat.rata@gmail.com**
 
 - 🏫 I'm graduated from **Bangkok Christian College(BCC)**
 
